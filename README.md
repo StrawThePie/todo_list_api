@@ -3,7 +3,7 @@
 A RESTful Todo List API built with FastAPI and SQLite.  
 It implements user registration, login with JWT-style tokens, and CRUD operations on todos with authentication, pagination, filtering, and sorting, plus basic rate limiting and tests.  
 
-This project is based on the [roadmap.sh Todo List API](https://roadmap.sh/projects/todo-list-api) specification.
+Created for https://roadmap.sh/projects/todo-list-api
 
 ---
 
